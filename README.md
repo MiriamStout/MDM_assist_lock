@@ -10,4 +10,4 @@ https://www.icloud.com/shortcuts/b0360892227b46158b818f2913ae3063
 - 無法做成桌面書籤執行 執行等待時會有圖示在最上層 點空白處會直接停止執行捷徑  
 
 ## 操作影片
-[點我下載播放影片](https://github.com/MiriamStout/MDM_assist_lock/blob/main/demonstration.mov)
+[點我觀看示範影片](https://drive.google.com/file/d/18A1ZEbrmPES825TPOoUT3ryPZbcBkJE9/preview)
